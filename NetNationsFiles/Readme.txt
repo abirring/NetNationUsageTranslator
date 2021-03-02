@@ -16,5 +16,6 @@ As a backup, I have put the output files generated during my run, and named them
 chargeable_insert_query_saved.txt, domains_insert_query_saved.txt
 
 If not running from Visual Studio, the program can be run by double clicking on the executable UsageTranslator.exe
+Complete path: NetNationUsageTranslator/NetNation/UsageTranslator/bin/Debug/netcoreapp3.1/UsageTranslator.exe
 But the input files should be in right folder as specified above i.e C:\temp\NetNationsFiles directory
 
