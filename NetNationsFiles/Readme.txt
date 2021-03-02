@@ -1,6 +1,6 @@
 
 This application is developed with: Visual Studio 19, .Net Core, C#
-So that's what should be used to run it.
+So that's what should be used to run it, if running in debug mode.
 
 Install Newtonsoft.Json NuGet package in your Visual Studio 19.
 That's the only external library needed to run the application.
@@ -16,5 +16,5 @@ As a backup, I have put the output files generated during my run, and named them
 chargeable_insert_query_saved.txt, domains_insert_query_saved.txt
 
 If not running from Visual Studio, the program can be run by double clicking on the executable UsageTranslator.exe
-But the input files should be in right folder as specified above.
+But the input files should be in right folder as specified above i.e C:\temp\NetNationsFiles directory
 
